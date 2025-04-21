@@ -74,6 +74,7 @@ nav a:hover {
     flex-direction: column;
     align-items: center;
     padding: 20px;
+    height: 75vh;
 }
 
 .resultado h1 {
